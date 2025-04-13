@@ -8,7 +8,7 @@ import plotly.express as px
 import plotly.figure_factory as ff
 
 st.sidebar.title('Olympics Data Analysis')
-st.sidebar.text('Created by Nithin Kumar T K")
+st.sidebar.text('Created by Nithin Kumar T K')
 st.sidebar.image('download.jpeg')
 
 df = pd.read_csv('athlete_events.csv')
