@@ -1,4 +1,4 @@
-# olympics-data-analysis
+# olympics-data-analysis dashboard using python and Streamlit
 
 Created an webapp using Streamlit for Olympics data analysis
 
